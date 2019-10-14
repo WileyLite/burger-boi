@@ -1,0 +1,24 @@
+{
+  "name": "burger-boi",
+  "version": "1.0.0",
+  "description": "Burger order and eating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WileyLite/burger-boi.git"
+  },
+  "author": "Jalin Wiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WileyLite/burger-boi/issues"
+  },
+  "homepage": "https://github.com/WileyLite/burger-boi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
